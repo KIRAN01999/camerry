@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../KSRTC"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "COC"
+	}
+}

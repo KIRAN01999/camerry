@@ -1,0 +1,197 @@
+
+    
+.header{
+    width: 100%;
+    height: 84px;
+    background-color: black;
+    position: fixed   
+}
+body{
+    margin: 0;
+}
+.body1{
+    width: 100%;
+    height: 740.36px;
+    background: #9c4041;
+    margin-top: -44px;
+}
+.camerylogo{
+    width: 179.84px;
+    height: 44.99px;
+    margin-left: 63px;
+    margin-top: 16px;
+}
+.products{
+    margin-left: 420px;
+    margin-top: -29px;
+    color: #ffffff;
+    font: 12px Monteserrat,sans-serif;
+    display: flex;
+    gap: 48px;
+    
+}
+.logos{
+    width: 7.22px;
+    height: 14.24PX;
+    margin-left: 519px;
+    margin-top: -10px;
+    display: flex;
+    gap: 20px;
+    color: #ffffff;
+
+}
+.img2{
+    margin-left: 68px;
+    margin-top: 40px;
+   
+}
+.coffe{
+    margin-top: 60px;
+    width: 555.01px;
+    height: 612.42px;
+}
+.about{
+    margin-left: 666px;
+    margin-top: -487px;
+    color: #ffffff;
+    font: 14px Monteserrat,sans-serif;
+}
+.perfect
+{
+    margin-left: 666px;
+    margin-top: 15px;
+    color: #ffffff;
+    font: 50px Monteserrat,sans-serif;
+    font-weight: 600;
+    
+}
+.scoops{
+
+    margin-left: 666px;
+    margin-top: 15px;
+    color: #ffffff;
+    font: 14px Monteserrat,sans-serif;
+}
+.Explore{
+    font: 14px Monteserrat,sans-serif;
+    color: #bc9e33; 
+    margin-left: 706px;
+    margin-top: 35px;
+    border: 1px solid #bc9e33 ;
+    margin-right: 402px;
+    padding: 22px;
+  
+}
+.last{
+    width: 100%;
+    height: 545.53px;
+    background: #1C1C1C;
+}
+.touch{
+    color: #7c682a;
+    font: 32px Monteserrat,sans-serif;
+    margin-left: 63PX;
+    padding-top: 49px;
+    
+}
+.feedback{
+    margin-left: 63PX;
+    padding-top: 14px;
+    color: #D1BD74;
+    font: 14px Monteserrat,sans-serif;
+}
+.us{
+    margin-left: 1009px;
+    margin-top: -41px;
+    color: #D1BD74;
+    font: 14px Monteserrat,sans-serif;
+    border: 1px solid #bc9e33 ;
+    padding: 13px;
+    padding-left: 20px;
+    width: 94px;
+  
+}
+.lg{
+    width: 199.99px;
+    height: 34.99px;
+    margin-left: 63px;
+    margin-top: 233px;
+
+}
+.nutri{
+    color: #D1BD74;
+    font: 16px Monteserrat,sans-serif;
+    margin-left: 446pX;
+    margin-top: -135px;
+
+}
+.ekm{
+    color: #D1BD74;
+    font: 16px Monteserrat,sans-serif;
+    margin-left: 0pX;
+    margin-top: 8px;
+
+}
+.branch1{
+    color: #D1BD74;
+    font: 16px Monteserrat,sans-serif;
+    margin-left: 446pX;
+    margin-top: 10px;
+}
+.num{
+    color: #D1BD74;
+    font: 16px Monteserrat,sans-serif;
+    margin-left: 0pX;
+    margin-top: 36px;
+}
+.toll{
+    color: #D1BD74;
+    font: 16px Monteserrat,sans-serif;
+    margin-left: 0pX;
+    margin-top: 3px;
+
+}
+.l1{
+    color: #D1BD74;
+    font: 16px Monteserrat,sans-serif;
+    margin-left: 521pX;
+    margin-top: -152px;
+
+}
+.making{
+    color: #D1BD74;
+    font: 16px Monteserrat,sans-serif;
+    margin-left: 521pX;
+    margin-top: 0px;
+
+}
+.carrer{
+    color: #D1BD74;
+    font: 16px Monteserrat,sans-serif;
+    padding-left: 521pX;
+    padding-top: 0px;
+
+}
+.medi{
+    color: #D1BD74;
+    font: 16px Monteserrat,sans-serif;
+    margin-left: 521pX;
+    margin-top: 0px;
+
+}
+.cont1{
+    color: #D1BD74;
+    font: 16px Monteserrat,sans-serif;
+    margin-left: 521pX;
+    margin-top: 0px;
+
+}
+.twitter{
+    width: 7.22px;
+    height: 14.24PX;
+    margin-left: 0px;
+    padding-top:3px;
+    color: #ffffff;
+}
+
+
